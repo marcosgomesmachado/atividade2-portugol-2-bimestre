@@ -2,7 +2,7 @@ a.  (Verdadeiro) 2 * 4 == 24/3
 
 b. (Falso) (15 % 4) < (19 % 6) 
 
-c. (Verdadeiro) nao(2 < 5) != (8 == 8) 
+c. (Verdadeiro)  nao(2 < 5) != (8 == 8) 
 
 d.  (Verdadeiro) verdadeiro ou falso  
 
