@@ -1,1 +1,0 @@
-# atividade2-portugol-2-bimestre
