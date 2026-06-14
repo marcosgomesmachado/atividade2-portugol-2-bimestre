@@ -8,7 +8,7 @@ programa
 
 		real num1, num2, maior
 	
-		escreva("Informe o primeiro 1º número: ")
+		escreva("Informe o 1º número: ")
 		leia(num1)
 		
 		escreva("\n\n", "Informe o 2º número: ")
